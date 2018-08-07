@@ -1,0 +1,10 @@
+[user]
+	username = olivia
+	name = Olivia Pryor
+	location = NY
+	signingkey = a5a9038d74b2e6c87930e17230bc023c3230fa6b
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = olivia
+	github = olivia
